@@ -25,7 +25,7 @@ function App() {
           {
             loading ?
               <Loader
-              type="Puffs"
+              type="Watch"
               color="#ff6900"
               height={100}
               width={100}
