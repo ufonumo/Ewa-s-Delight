@@ -1,8 +1,15 @@
-import React from 'react'
+import React , {useEffect} from 'react'
 import Footer from '../components/Footer';
 import Button from '../components/Button'
+import AOS from 'aos';
 
 export default function Products() {
+    useEffect(() => {
+    AOS.init({
+        duration : 1000
+    });
+    }, []);
+    
     return (
         <>
             <div className='hero contact_head text-center'>
@@ -13,7 +20,7 @@ export default function Products() {
 
             <div className="product about container">
                 <div className="row product_list">
-                    <div className=" product_items">
+                    <div className=" product_items" data-aos="fade-up">
                         <div className="grid justify-content-between">
                             <h4>Bananarama</h4>
                         </div>
@@ -23,7 +30,7 @@ export default function Products() {
                         <Button/>
                     </div>
 
-                    <div className=" product_items">
+                    <div className=" product_items" data-aos="fade-up" data-aos-delay="200">
                         <div className="grid ">
                             <h4>Creamy Melon</h4>
                         </div>
@@ -35,7 +42,7 @@ export default function Products() {
                     
                 </div>
                 <div className="row product_list  mt-2">
-                    <div className=" product_items">
+                    <div className=" product_items" data-aos="fade-up" data-aos-delay="300">
                         <div className="grid justify-content-between">
                             <h4>Melon Glow</h4>
                         </div>
@@ -45,7 +52,7 @@ export default function Products() {
                         <Button/>
                     </div>
 
-                    <div className=" product_items">
+                    <div className=" product_items" data-aos="fade-up" data-aos-delay="400">
                         <div className="grid justify-content-between">
                             <h4>Mango Treat</h4>
                         </div>
@@ -57,9 +64,9 @@ export default function Products() {
                 </div>
 
                 <div className="specials">
-                    <h3 className='ewa_color pb-5'>Ewa’s delight Specials</h3>
+                    <h3 className='ewa_color pb-5' data-aos="fade-up">Ewa’s delight Specials</h3>
                     <div className="row product_list">
-                        <div className=" product_items">
+                        <div className=" product_items" data-aos="fade-up">
                             <div className="grid justify-content-between">
                                 <h4>Fruit Yoghurt parfait</h4>
                             </div>
@@ -69,7 +76,7 @@ export default function Products() {
                             <Button/>
                         </div>
 
-                        <div className=" product_items">
+                        <div className=" product_items" data-aos="fade-up" data-aos-delay="300">
                             <div className="grid justify-content-between">
                                 <h4>Yoghurt Parfait Sticks</h4>
                             </div>
