@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97fe75e2.chunk.css",
+    "main.js": "/static/js/main.83cf339c.chunk.js",
+    "main.js.map": "/static/js/main.83cf339c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6c2616ee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6c2616ee.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.72830012.chunk.js": "/static/js/2.72830012.chunk.js",
+    "static/js/2.72830012.chunk.js.map": "/static/js/2.72830012.chunk.js.map",
+    "static/js/3.641a97c9.chunk.js": "/static/js/3.641a97c9.chunk.js",
+    "static/js/3.641a97c9.chunk.js.map": "/static/js/3.641a97c9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.97fe75e2.chunk.css.map": "/static/css/main.97fe75e2.chunk.css.map",
+    "static/js/2.72830012.chunk.js.LICENSE.txt": "/static/js/2.72830012.chunk.js.LICENSE.txt",
+    "static/media/ewa.7c165564.png": "/static/media/ewa.7c165564.png",
+    "static/media/menu.f63dd901.svg": "/static/media/menu.f63dd901.svg",
+    "static/media/pexels-alleksana-4051756.cd7fe3e5.jpg": "/static/media/pexels-alleksana-4051756.cd7fe3e5.jpg",
+    "static/media/pexels-alleksana-4051769.aa990aa3.jpg": "/static/media/pexels-alleksana-4051769.aa990aa3.jpg",
+    "static/media/pexels-eva-elijas-5734478.a0827822.jpg": "/static/media/pexels-eva-elijas-5734478.a0827822.jpg",
+    "static/media/pexels-lisa-845552.a2a55853.jpg": "/static/media/pexels-lisa-845552.a2a55853.jpg",
+    "static/media/pexels-polina-tankilevitch-4443440.f224b684.jpg": "/static/media/pexels-polina-tankilevitch-4443440.f224b684.jpg",
+    "static/media/pexels-polina-tankilevitch-4443466.d2803a89.jpg": "/static/media/pexels-polina-tankilevitch-4443466.d2803a89.jpg",
+    "static/media/App.css": "/static/media/pexels-taryn-elliott-4099238.1c5d384f.jpg",
+    "static/media/pexels-polina-tankilevitch-4443497.4f2e5348.jpg": "/static/media/pexels-polina-tankilevitch-4443497.4f2e5348.jpg",
+    "static/media/pexels-valeria-boltneva-1251210.1fb30d20.jpg": "/static/media/pexels-valeria-boltneva-1251210.1fb30d20.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c2616ee.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.72830012.chunk.js",
+    "static/css/main.97fe75e2.chunk.css",
+    "static/js/main.83cf339c.chunk.js"
+  ]
+}
