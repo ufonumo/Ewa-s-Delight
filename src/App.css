@@ -1,6 +1,14 @@
+
 *{
   font-family: 'Raleway', sans-serif;
 }
+
+.ewa_loader{
+  padding: 200px;
+  text-align: center;
+}
+
+
 
 .logo{
   width: 40px;
@@ -8,7 +16,7 @@
 }
 
 .navbar{
-  background: linear-gradient(90deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);
+  background: linear-gradient(90deg,#ff6900 0%,rgb(207,46,46) 100%);
   color: #fff;
 }
 
@@ -206,6 +214,11 @@
 
   .header {
     padding-top: 150px;
+  }
+
+  .ewa_loader{
+    padding: 100px;
+    text-align: center;
   }
 }
 

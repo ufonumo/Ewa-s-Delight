@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.97fe75e2.chunk.css",
-    "main.js": "/static/js/main.d9a9d362.chunk.js",
-    "main.js.map": "/static/js/main.d9a9d362.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c1621aa7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c1621aa7.js.map",
+    "main.css": "/static/css/main.d2ec1d1a.chunk.css",
+    "main.js": "/static/js/main.0d790a76.chunk.js",
+    "main.js.map": "/static/js/main.0d790a76.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e4fc3da4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e4fc3da4.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.157d2adb.chunk.js": "/static/js/2.157d2adb.chunk.js",
-    "static/js/2.157d2adb.chunk.js.map": "/static/js/2.157d2adb.chunk.js.map",
-    "static/js/3.82e12e95.chunk.js": "/static/js/3.82e12e95.chunk.js",
-    "static/js/3.82e12e95.chunk.js.map": "/static/js/3.82e12e95.chunk.js.map",
+    "static/js/2.b90a047a.chunk.js": "/static/js/2.b90a047a.chunk.js",
+    "static/js/2.b90a047a.chunk.js.map": "/static/js/2.b90a047a.chunk.js.map",
+    "static/js/3.e6972258.chunk.js": "/static/js/3.e6972258.chunk.js",
+    "static/js/3.e6972258.chunk.js.map": "/static/js/3.e6972258.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.97fe75e2.chunk.css.map": "/static/css/main.97fe75e2.chunk.css.map",
-    "static/js/2.157d2adb.chunk.js.LICENSE.txt": "/static/js/2.157d2adb.chunk.js.LICENSE.txt",
+    "static/css/main.d2ec1d1a.chunk.css.map": "/static/css/main.d2ec1d1a.chunk.css.map",
+    "static/js/2.b90a047a.chunk.js.LICENSE.txt": "/static/js/2.b90a047a.chunk.js.LICENSE.txt",
     "static/media/ewa.7c165564.png": "/static/media/ewa.7c165564.png",
     "static/media/menu.f63dd901.svg": "/static/media/menu.f63dd901.svg",
     "static/media/pexels-alleksana-4051756.cd7fe3e5.jpg": "/static/media/pexels-alleksana-4051756.cd7fe3e5.jpg",
@@ -27,10 +27,10 @@
     "static/media/pexels-valeria-boltneva-1251210.1fb30d20.jpg": "/static/media/pexels-valeria-boltneva-1251210.1fb30d20.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1621aa7.js",
+    "static/js/runtime-main.e4fc3da4.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.157d2adb.chunk.js",
-    "static/css/main.97fe75e2.chunk.css",
-    "static/js/main.d9a9d362.chunk.js"
+    "static/js/2.b90a047a.chunk.js",
+    "static/css/main.d2ec1d1a.chunk.css",
+    "static/js/main.0d790a76.chunk.js"
   ]
 }
