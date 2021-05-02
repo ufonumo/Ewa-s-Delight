@@ -232,11 +232,13 @@
 
 .footer_about{
   line-height: 2;
+  font-size: 14px;
 }
 
 .footer_timetable ul li{
   list-style: none;
   padding: 5px 0;
+  font-size: 14px;
 }
 
 .footer_timetable h5{

@@ -1,6 +1,6 @@
 import React from 'react'
 import {Navbar , Nav} from 'react-bootstrap'
-import Logo from '../assets/ewa.png'
+import Logo from '../assets/small-logo.svg'
 import {Link} from "react-router-dom";
 import menu from '../assets/menu.svg'
 
