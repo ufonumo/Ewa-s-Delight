@@ -72,7 +72,7 @@ export default function Products() {
                             </div>
                             <hr/>
                             <p>If you are looking for a quick breakfast idea in the morning or a pick me up snack during the day, this fruit yogurt parfait is seriously the <em>BEST!</em> .</p>
-                            <p>Price: <em> ₦ 500.00</em> </p>
+                            <p>Price: <em> ₦ 1000.00</em> </p>
                             <Button/>
                         </div>
 
@@ -82,7 +82,7 @@ export default function Products() {
                             </div>
                             <hr/>
                             <p>If you are looking for a quick breakfast idea in the morning or a pick me up snack during the day, this fruit yogurt parfait is seriously the <em>BEST!</em> .</p>
-                            <p>Price: <em> ₦ 1000.00</em> </p>
+                            <p>Price: <em> ₦ 500.00</em> </p>
                             <Button/>
                         </div>
                     </div>
